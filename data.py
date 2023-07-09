@@ -10,6 +10,7 @@ question_data = [
     {"text": "Water boils at 100 degrees Fahrenheit.", "answer": "False"},
     {"text": "The sun is a star.", "answer": "True"},
     {"text": "Spiders are insects.", "answer": "False"},
-    {"text": "The Statue of Liberty was a gift from France to the USA.", "answer": "True"}
+    {"text": "The Statue of Liberty was a gift from France to the USA.", "answer": "True"}, 
+     {"text": "Adolf Hitler commited a suicide.", "answer": "True"}
 ]
 
